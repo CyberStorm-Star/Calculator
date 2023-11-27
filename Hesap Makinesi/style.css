@@ -1,0 +1,50 @@
+* {
+    background-color:  rgb(176, 163, 193);
+
+
+
+}
+body {
+    max-width: 900px;
+    max-height: 900px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  .container {
+    margin-bottom: auto;
+    margin-top: auto;
+    margin: auto;
+    max-height: 330px;
+     max-width: 330px;
+     border: 12px;
+    
+  }
+
+
+  .container button {
+    margin: 3px;
+    border-radius: 19px;
+    min-width: 80px;
+    height: 80px;
+    background-color: rgb(55, 55, 55);
+    color: aliceblue;
+  }
+
+  .container #display {
+    width: 330px;
+    background-color: blanchedalmond;
+    color: black;
+  }
+
+ .sayıKutusu {
+    display: flex;
+    flex-direction: row;
+    width: 12px;
+    height: 16px;
+    
+ }
